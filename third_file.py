@@ -11,8 +11,8 @@ def print_hello_world():
 
 
 
-def print_my_name()
-    print("Hi! My name is Zamir")
+def print_my_name(name)
+    print("Hi! My name is {name}")
 
 
 

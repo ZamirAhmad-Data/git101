@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 This is the fifth file
 
 
 Introducing something new
+=======
+This is the fifth file! 
+>>>>>>> b3ecf56731ecabac0474bd8ec0a22d63e8b22a8e
